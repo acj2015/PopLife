@@ -1,0 +1,13 @@
+call compileFinal preprocessFileLineNumbers "A3L_Functions\Core\Network\fn_sounds.sqf";
+call compileFinal preprocessFileLineNumbers "A3L_Functions\Core\Farming\fn_client.sqf";
+call compileFinal preprocessFileLineNumbers "A3L_Functions\Core\fn_tablet.sqf";
+call compileFinal preprocessFileLineNumbers "A3L_Functions\Core\fn_messagesystem.sqf";
+call compileFinal preprocessFileLineNumbers "A3L_Functions\Core\Server\fn_buildings.sqf";
+call compileFinal preprocessFileLineNumbers "A3L_Functions\Core\Farming\fn_server.sqf";
+call compileFinal preprocessFileLineNumbers "A3L_Functions\Core\Network\fn_nearestsound.sqf";
+call compileFinal preprocessFileLineNumbers"A3L_Functions\Core\Server\fn_buildings2.sqf";
+call compileFinal preprocessFileLineNumbers"A3L_Functions\Core\Server\jailsystem.sqf";
+call compileFinal preprocessFileLineNumbers"A3L_Functions\Core\Functions\bank.sqf";
+call compileFinal preprocessFileLineNumbers"A3L_Functions\Core\Functions\message.sqf";
+call compileFinal preprocessFileLineNumbers"A3L_Functions\Core\Functions\nightclub.sqf;
+systemchat"Arma 3 Life Functions Initialized";
